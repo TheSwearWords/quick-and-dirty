@@ -1,0 +1,8 @@
+{
+  "name": "quick-and-dirty",
+  "version": "0.1.0",
+  "description": "Design deliverables as skills, one per deliverable, each building its prerequisites first. Orchestra's musicians without the app.",
+  "author": { "name": "TheSwearWords" },
+  "repository": "https://github.com/TheSwearWords/quick-and-dirty",
+  "keywords": ["design", "brand", "figma", "orchestra"]
+}

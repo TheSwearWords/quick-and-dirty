@@ -1,0 +1,11 @@
+{
+  "name": "quick-and-dirty",
+  "owner": { "name": "TheSwearWords" },
+  "plugins": [
+    {
+      "name": "quick-and-dirty",
+      "source": "./",
+      "description": "Design deliverables as skills, each building its prerequisites first."
+    }
+  ]
+}
