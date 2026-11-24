@@ -54,6 +54,10 @@ exports/                                    renders and exported files
 notes/<skill>.md                            handoff notes, so a fresh session can continue
 ```
 
+## Plugin Builder
+
+`/quick-and-dirty:plugin-builder` builds a new Orchestra plugin by interview (manifest, playbooks, spec, README), or audits an existing one against the plugin requirements and reports what's missing.
+
 ## Adding a deliverable
 
 Copy a folder in `skills/`, change the name, description, prerequisites table and steps. A new prerequisite is a skill that writes one file to `prereqs/` and lists its own needs.
